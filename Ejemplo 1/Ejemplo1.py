@@ -3,4 +3,8 @@ b = 3
 
 suma = a + b
 
-print(suma)
+print("La suma es:", suma)
+
+resta = a - b
+
+print("La resta es:", resta)
