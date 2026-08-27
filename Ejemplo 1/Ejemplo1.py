@@ -8,3 +8,7 @@ print("La suma es:", suma)
 resta = a - b
 
 print("La resta es:", resta)
+
+Multiplicacion = a * b
+
+print("La multiplicación es:", Multiplicacion)
