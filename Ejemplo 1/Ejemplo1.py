@@ -12,3 +12,7 @@ print("La resta es:", resta)
 Multiplicacion = a * b
 
 print("La multiplicación es:", Multiplicacion)
+
+Division = a / b
+
+print("La división es:", Division)
