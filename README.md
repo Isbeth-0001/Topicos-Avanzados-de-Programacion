@@ -8,6 +8,8 @@
 
 ---
 
+> **"We're living the future so the present is our past."**
+
 ## Conocimientos y experiencia
 
 A lo largo de mi formación académica he trabajado con diferentes lenguajes y herramientas de programación.
